@@ -135,3 +135,4 @@ vector<SlotCount> TripAnalyzer::topBusySlots(int k) const {
 
     return output;
 }
+
